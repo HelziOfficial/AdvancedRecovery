@@ -1,0 +1,27 @@
+БОЧКА ДЛЯ ПОЧИНКИ ПРЕДМЕТОВ ЧЕРЕЗ ЭКШЕН (ЛКМ) | BARREL FOR REPAIRING ITEMS VIA ACTION (LEFT MOUSE BUTTON)
+=================================
+Hel_BarrelRecoveryAction
+Hel_BarrelRecoveryAction_Static
+=================================
+
+
+
+БОЧКА ДЛЯ ПОЧИНКИ ПРЕДМЕТОВ, ПРОСТО ПОЛОЖИТЬ ПРЕДМЕТ В ИНВЕНТАРЬ И САМО ПОЧИНИТЬСЯ | ITEM REPAIR BARREL, JUST PUT THE ITEM IN YOUR INVENTORY AND IT WILL REPAIR ITSELF
+=================================
+Hel_BarrelRecoveryNoAction
+Hel_BarrelRecoveryNoAction_Static
+=================================
+
+
+
+КЕЙС ДЛЯ ПОЧИНКИ ПРЕДМЕТОВ ЧЕРЕЗ ЭКШЕН (ЛКМ) | CASE FOR REPAIRING ITEMS VIA ACTION (LEFT MOUSE BUTTON)
+=================================
+Hel_CaseRecoveryAction
+=================================
+
+
+
+КЕЙС ДЛЯ ПОЧИНКИ ПРЕДМЕТОВ, ПРОСТО ПОЛОЖИТЬ ПРЕДМЕТ В ИНВЕНТАРЬ И САМО ПОЧИНИТЬСЯ | ITEM REPAIR CASE, JUST PUT THE ITEM IN YOUR INVENTORY AND IT WILL REPAIR ITSELF
+=================================
+Hel_CaseRecoveryNoAction
+=================================
