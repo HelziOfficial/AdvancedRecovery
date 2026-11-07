@@ -1,0 +1,15 @@
+НАСТРОЙКА:
+mode = 0 / Не чинит предметы которые прописаны в настройках json файла
+mode = 1 / Чинит ТОЛЬКО те предметы которые прописаны в настройках json файла
+
+modeHealth = 0 / Чинит даже полностью (красные) предметы
+modeHealth = 1 / Не чинит полностью сломанные (красные) предметы
+
+=======================================================================================================================
+
+SETTING:
+mode = 0 / Does not repair items that are specified in the json file settings
+mode = 1 / Repairs ONLY those items that are specified in the json file settings
+
+modeHealth = 0 / Repairs even completely (red) items
+modeHealth = 1 / Does not repair completely broken (red) items
